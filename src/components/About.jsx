@@ -86,7 +86,7 @@ const About = () => {
                             </pre>
                             <div className="terminal-image-container">
                                 <img
-                                    src="public/developer.jpg"
+                                    src="https://github.com/nandkishor22/Portfolio/blob/main/public/developer.jpg?raw=true"
                                     alt="Developer"
                                     className="terminal-profile-img"
                                 />
