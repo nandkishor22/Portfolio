@@ -131,7 +131,7 @@ The design language mimics a developer's workspace:
 **Nandkishor Mali** - Full Stack Developer
 
 - **Email**: malinandkishor445@gmail.com
-- **LinkedIn**: [linkedin.com/in/nandkishor-mali](https://www.linkedin.com/in/nandkishor-mali-17b967326/)
+- **LinkedIn**: [linkedin.com/in/nandkishor-mali-17b967326](https://www.linkedin.com/in/nandkishor-mali-17b967326/)
 - **GitHub**: [github.com/nandkishor-mali](https://github.com/nandkishor-mali)
 
 ---
