@@ -81,7 +81,7 @@ const Hero = () => {
                     <a href="#projects" className="btn btn-primary">
                         EXPLORE WORK
                     </a>
-                    <a href="/Nandkishor_Mali_Resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline" style={{ border: '1px solid var(--primary)', color: 'white' }}>
+                    <a href="https://drive.google.com/file/d/1lVrphPuCTM0WxI0n6Mo0_c9oGtQQ2sUb/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn btn-outline" style={{ border: '1px solid var(--primary)', color: 'white' }}>
                         RESUME
                     </a>
                 </div>
