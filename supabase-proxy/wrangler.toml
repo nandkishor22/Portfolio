@@ -1,0 +1,7 @@
+name = "supabase-proxy"
+main = "src/index.ts"
+compatibility_date = "2024-04-05"
+
+[vars]
+# TODO: Replace this with your actual Supabase Project URL
+SUPABASE_URL = "https://qntekjtykdvhismkirme.supabase.co"
